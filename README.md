@@ -13,8 +13,8 @@ This action installs a pinned version of **pdoc** and all its dependencies,     
 In your GitHub Actions workflow, use this action like so:
 
 ```yaml
-- name: Install pdoc from PyPI
-  uses: install-pinned/pdoc@7e7cd312a6916340d5b33222f819160fd74c1c57  # 12.2.0
+      - name: Install pdoc from PyPI
+        uses: install-pinned/pdoc@7e7cd312a6916340d5b33222f819160fd74c1c57  # 12.2.0
 ```
 
 ## Alternatives
