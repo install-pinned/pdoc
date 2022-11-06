@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install pdoc from PyPI
-        uses: install-pinned/pdoc@7e7cd312a6916340d5b33222f819160fd74c1c57  # 12.2.0
+        uses: install-pinned/pdoc@ba60047ac13be06ddd9e802e047ea3171452f616  # 12.2.1
 ```
 
 ## Alternatives
