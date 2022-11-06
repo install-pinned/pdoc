@@ -52,9 +52,9 @@ markupsafe==2.1.1 \
     # via
     #   jinja2
     #   pdoc
-pdoc==12.2.0 \
-    --hash=sha256:043ab59983ea166ba15c9950eca3683194e5fbc7bbcdd61595f95d18fdc5c05c \
-    --hash=sha256:1a4f2ca3f02772941b7b7fe85cb50b9b0c86ed4c2417bcf7d0bd7ad189ae1ba8
+pdoc==12.2.1 \
+    --hash=sha256:2f2f3b667bc52e2bc13b87cf7460db5e4f2484269c9c4bad22a2d5514eaae1ce \
+    --hash=sha256:fdbb4e8f1b193f010cc46c50e7ce69a4271e64dfa46da6c2b8b1601f36c13307
     # via -r pins/requirements.in
 pygments==2.13.0 \
     --hash=sha256:56a8508ae95f98e2b9bdf93a6be5ae3f7d8af858b43e02c5a2ff083726be40c1 \
