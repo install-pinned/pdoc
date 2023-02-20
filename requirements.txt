@@ -55,9 +55,9 @@ markupsafe==2.1.2 ; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:f1cd098434e83e656abf198f103a8207a8187c0fc110306691a2e94a78d0abb2 \
     --hash=sha256:f2bfb563d0211ce16b63c7cb9395d2c682a23187f54c3d79bfec33e6705473c6 \
     --hash=sha256:f8ffb705ffcf5ddd0e80b65ddf7bed7ee4f5a441ea7d3419e861a12eaf41af58
-pdoc==12.3.1 ; python_version >= "3.7" and python_version < "4.0" \
-    --hash=sha256:453236f225feddb8a9071428f1982a78d74b9b3da4bc4433aedb64dbd0cc87ab \
-    --hash=sha256:c3f24f31286e634de9c76fa6e67bd5c0c5e74360b41dc91e6b82499831eb52d8
+pdoc==13.0.0 ; python_version >= "3.7" and python_version < "4.0" \
+    --hash=sha256:aadbf6c757c6e65c4754d6c26c4eb6c1bf8c7a9fb893f1fbe5a7b879dde59e46 \
+    --hash=sha256:f9088b1c10f3296f46a08796e05e307470af5f4253f71d536781f6c305baf912
 pygments==2.14.0 ; python_version >= "3.7" and python_version < "4.0" \
     --hash=sha256:b3ed06a9e8ac9a9aae5a6f5dbe78a8a58655d17b43b93c078f094ddc476ae297 \
     --hash=sha256:fa7bd7bd2771287c0de303af8bfdfc731f51bd2c6a47ab69d117138893b82717
