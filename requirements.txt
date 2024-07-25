@@ -65,9 +65,9 @@ markupsafe==2.1.5 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:fa9db3f79de01457b03d4f01b34cf91bc0048eb2c3846ff26f66687c2f6d16ab \
     --hash=sha256:fce659a462a1be54d2ffcacea5e3ba2d74daa74f30f5f143fe0c58636e355fdd \
     --hash=sha256:ffee1f21e5ef0d712f9033568f8344d5da8cc2869dbd08d87c84656e6a2d2f68
-pdoc==14.5.1 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:4ddd9c5123a79f511cedffd7231bf91a6e0bd0968610f768342ec5d00b5eefee \
-    --hash=sha256:fda6365a06e438b43ca72235b58a2e2ecd66445fcc444313f6ebbde4b0abd94b
+pdoc==14.6.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:36c42c546a317d8e3e8c0b39645f24161374de0c7066ccaae76628d721e49ba5 \
+    --hash=sha256:6e98a24c5e0ca5d188397969cf82581836eaef13f172fc3820047bfe15c61c9a
 pygments==2.18.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:786ff802f32e91311bff3889f6e9a86e81505fe99f2735bb6d60ae0c5004f199 \
     --hash=sha256:b8e6aca0523f3ab76fee51799c488e38782ac06eafcf95e7ba832985c8e7b13a
